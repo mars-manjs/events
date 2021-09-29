@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "outDir": "lib",
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "lib": [
+            "esnext",
+            "dom",
+            "dom.iterable"
+        ],
+        "rootDir": "src",
+        "declaration": true,
+        "types" : ["jest"],
+        "sourceMap": true
+    },
+    "include": [
+        "src/**/*",
+        "__tests__/**/*"
+    ],
+    "exclude": [
+        "build",
+        "node_modules",
+        "testing",
+        "__tests__",
+        "lib"
+    ]
+}
