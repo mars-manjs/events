@@ -1,10 +1,10 @@
 {
   "name": "@mars-man/events",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "for events",
   "main": "lib/cjs/index.js",
   "types": "lib/index.d.ts",
-  "module" : "lib/index.js",
+  "module": "lib/index.js",
   "type": "commonjs",
   "directories": {
     "test": "__tests__"
