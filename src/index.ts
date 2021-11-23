@@ -2,7 +2,8 @@
 
 
 
-type cb_t = (data: any) => void
+
+type cb_t = (...args) => void
 type event_t = string
 export class EventsEmitter {
     eventLength: number = 0

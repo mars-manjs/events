@@ -1,6 +1,6 @@
 {
   "name": "@mars-man/events",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "for events",
   "main": "lib/cjs/index.js",
   "types": "lib/index.d.ts",
